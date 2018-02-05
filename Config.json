@@ -1,0 +1,7 @@
+{
+    "driver" :"mysql",   
+    "dbhost": "172.17.0.2",
+    "dbuser": "root",
+    "dbname": "blog",
+    "dbpass": "linuxlinux"
+}
