@@ -1,6 +1,6 @@
 {
     "driver" :"mysql",   
-    "dbhost": "172.17.0.2",
+    "dbhost": "127.0.0.1",
     "dbuser": "root",
     "dbname": "blog",
     "dbpass": "linuxlinux"
